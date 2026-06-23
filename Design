@@ -1,0 +1,74 @@
+ПРОЦЕСС РЕГИСТРАЦИИ И АУТЕНТИФИКАЦИИ (МОБИЛЬНОЕ ПРИЛОЖЕНИЕ)
+
+1. BPMN-диаграмма процесса регистрации
+https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-1%22%20id%3D%22Ut-DmQXg318TTwos8jcf%22%3E7Vzrc%2BI2EP9rmGk%2FcGNZ2OCPPJLrde5mMk1n%2BvgmQBg3tkVlESB%2FffU08gPCBQwc5SZnW%2BvVWtaudve3VtKCw2T9maLF%2FBuZ4rjlOtN1C45arus6rsNPgrJRFACApoQ0mmralvAcvWFNNGzLaIqzAiMjJGbRokickDTFE1agIUrJqsg2I3HxqQsU4grheYLiKvWPaMrmitpzu1v6LzgK5%2BbJwA%2FUnQQZZv0m2RxNycoiwYcWHFJCmLpK1kMci9kz86L6Pe64mw%2BM4pQd0sH99W308vk5%2BPYbcUZf%2Fh5mI4TanaoULThjGzMH2SpKYpTy1mDOkpgTAb%2FMGKJMK4w%2FGg5mJGXPupdoT0gco0UWjXPKnNDojXOhWBOM5K%2BRkK7EatJjFMdDEhMqxwBn8p98LCUvuS74LA5W84jh5wWaCBErboecpt7hFcVL%2FQ6agCnDa%2Bs99VR9xiTBjG44y9zSZsfXulttVQ8A1EQtp6ubxsI7uo205YW57K1y%2BIXWz3foqqfk4mnFYrfK26dkS6NChlEVoWxOQpKi%2BGFLHVCyTKd4qvW05flKyEJr6h%2FM2EYbAFoyUjSPWg1Up5viGLHotfhGdVOnuz6RiL9rPvnAL86%2BC72iiIws6QTrXvbqKAnKl%2BkuQdzaQ8wqgqQm8%2Ff5uHKBe6x25Yvu4QsuZwVq7va9PTi1uRy10oIPL6yFsA85HG%2FAf5xPLjejoSP%2Fe5xhKIl1tG6VCETLSCgS62hdr04kqHl2mebWEGtF1jzbKQ2S%2F3AnPUcLMSPJOhR5wafxIkk%2FMZS97PLXlMduY4q50Q0yZVbAKRrVRIQQHjGobuP1AqXGSKtRRzz8WQzo940cFA%2FuXNJADOcboi9SzDITpzqn5cdMjIQ%2FoaBp%2F9%2BlCNzicSJE9YVthuOfPDEP%2FNrX5x74WYp1RHBsz1ASxRvFzUWgRLy6FvQlZXwI4uG0fEuJ0gziMkNp1uYjjmaWcDVZQjQAi7W6MUaTl1DOZ7s0UNeM1L5QY%2FXzx%2FqhPPNZDLriyJUtjo%2Fy%2BCCP8u5gJI%2B9FldHz5VHIVFedAwzv1bdh%2FIaGgZF9OQRWnKAJc0xT%2BfXvuGRR60fvsyVivSQPxLtezXB3i3G%2BnKUAIHXkAsy%2Be8pfBDoyNVpzu84op5Xz13neLbc%2BvyOozEjqXAXZe%2F2IfhVzobtDYSWI76mv6Ixjp9IFrGIpPzemDBGEs4QixuDfCXUJZVGRj%2BOQtGXifA2QLo1wXLpwcGCLzmuXukxuA45BsFPW9KALFnM3dIwhyLC%2B6BsoRqzaC2dmubiFJ5Bp1NEpafbJGMi3ijE3K%2BJ%2FPhEKaxXNWqvaNM5IjOZD2gqgQV%2B0zkOqIKXMyQ5fOx086fuLxt%2FiQa3Z90cre2bo43dsgxIEg%2FNmGAjCXafUrSxGLQv2Zl%2Fd2DReAKnZCVK4GGdc2R1rpxbg3hdO0BjYzOH%2Bl5j0CVzk56oaCIVV1L2OEk0nSprxDyQo232UvTmo1rHIAJ0R4fIQ51ErV3oLm3uqb2CatqHIzPDQmazDDeiN%2BMKb82PHLj03esCSy48chUZdV7DKhqZZFSmnqdaS25xMV3TWgIfLyLtwLplwLoP7h4CbnPeCr7dCWXfA66788sQMbxCG%2FcqUkw6J8l4mb2bYm4zypTIKm2eTep2uNLQF68n8TKTlnorWNcxWFeWFdqZqiuIWymhic6ky5D2IUFRvBM7KvI0ei2T%2FgczY0FvKI%2BB5RFzSM4pruGx%2FCV8fGdOObkwrY0Amo5TdLfNARp4dEn%2B3UQEXi4Rabp2H3RrscPZsn946sh3r%2FLeq7w%2FdpXXruz2rYpv16q%2F2vXdvLLbs4qywHSX8UGORcfbkjBVOOZcjybfPmsx1ysVc72mwoTbeJio%2BWh%2FM2Gi61z2y6wbHItvezeObx3XBwUVda4I4EJwm4tvV9HZ92GDZWd4HWVnr7TtA%2FZgyXb21Z0rvctbdhr2KNA90qPAeou7bN15J2oe0xPBwH1uiHuh6y2yHbFT615kuxfZLg81PlhKyhGFvdMj3zdio4iRhQk64lagUIRvoQS11STYV2VqpJ7kwaJnabCe1PgHcrf%2Bi%2BUNfiCHnfPAk6D8EbtsHU3DE%2F%2FUseVexrqXse5lrLoylqD0gbXv0TGcVnhy7U2SewLfWWtd5SJKcxsXO43jbXiRbyIXiWHBmWJYqRIKu2cGxPdPMfcYdo9hdgzTYebBilud3dHLsUJd32KDFnw69%2BeVcsiB5d2dp4NNNb%2FFeN8rf1t75XFa2CbPhSRRihh2b8eJfLzI0rd8hf2Fxz9voaS8oaPX2II%2F4S%2Fo3Rf8fcH%2FaAu%2BD812vBxoehZ%2BHVkZwGPr2F%2BzU0Iu6UfyD2Pf4Uh4c%2FunFRRO2f6FCvjwHw%3D%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E
+
+2. UML Sequence Diagram (PlantUML)
+@startuml
+autonumber
+
+actor "Пользователь" as User
+participant "Мобильное приложение" as App
+participant "Backend API" as API
+database "База данных" as DB
+participant "Email-сервис" as Email
+
+User -> App: Ввод email и пароля
+App -> API: POST /register (email, password)
+API -> DB: Проверка уникальности email
+DB --> API: email свободен
+API -> DB: Сохранение пользователя (не подтверждён)
+API -> Email: Отправить письмо с подтверждением (токен)
+Email --> API: Успешно отправлено
+API --> App: 200 OK (регистрация принята)
+App --> User: "Проверьте почту"
+
+User -> App: Переход по ссылке из письма
+App -> API: GET /confirm?token=...
+API -> DB: Поиск пользователя по токену
+DB --> API: Пользователь найден
+API -> DB: Обновить статус "подтверждён"
+API --> App: 200 OK (аккаунт активирован)
+App --> User: "Аккаунт подтверждён, войдите"
+
+User -> App: Вход (email + пароль)
+App -> API: POST /login (email, password)
+API -> DB: Проверка пароля (хеш)
+DB --> API: Успешно
+API -> App: access_token + refresh_token
+App -> User: Доступ в личный кабинет
+
+@enduml
+
+3. Список требований
+
+Функциональные требования:
+1. Пользователь должен иметь возможность зарегистрироваться с указанием email и пароля.
+2. Пароль должен содержать минимум 8 символов, включая хотя бы одну цифру и один спецсимвол.
+3. Система должна отправлять письмо для подтверждения email после регистрации.
+4. Пользователь может войти через Google или Apple (OAuth 2.0 / Apple ID).
+5. Пользователь может восстановить пароль через отправку ссылки на почту.
+6. Система должна блокировать учётную запись после 5 неудачных попыток входа на 15 минут.
+7. Пользователь может выйти из системы (logout) с аннулированием токенов.
+
+Нефункциональные требования:
+1. Время отклика страницы входа не должно превышать 1 секунду при 95% запросов.
+2. Система должна обрабатывать до 10 000 одновременных запросов на аутентификацию.
+3. Все пароли должны храниться с использованием bcrypt с солью.
+
+4. Acceptance Criteria для User Story "Вход через Google"
+
+User Story: Как пользователь, я хочу войти в приложение через Google, чтобы не запоминать дополнительный пароль.
+
+Acceptance Criteria (Given/When/Then):
+Given пользователь находится на экране входа мобильного приложения и нажимает кнопку "Войти через Google";
+When Google возвращает код авторизации на callback URL приложения;
+Then система обменивает код на токены, создаёт или связывает аккаунт по email и автоматически выполняет вход, перенаправляя пользователя в личный кабинет.
+
+Given пользователь ранее уже входил через Google с тем же email, но аккаунт был удалён из системы;
+When Google возвращает корректный токен;
+Then система создаёт новый аккаунт с этим email и выполняет вход.
+
+Given пользователь отменяет авторизацию на стороне Google;
+When Google возвращает ошибку отказа;
+Then система показывает сообщение "Вход через Google отменён" и остаётся на экране входа.
